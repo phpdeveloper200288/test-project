@@ -1,0 +1,33 @@
+<employees>
+    <employee>
+        <full_name>John Doe</full_name>
+        <date_of_birth>1990-05-15</date_of_birth>
+        <department>
+            <title>Engineering</title>
+        </department>
+        <position>Manager</position>
+        <employee_type>rate</employee_type>
+        <monthly_salary>5000</monthly_salary>
+    </employee>
+    <employee>
+        <full_name>Jane Smith</full_name>
+        <date_of_birth>1985-10-20</date_of_birth>
+        <department>
+            <title>Sales</title>
+        </department>
+        <position>Engineer</position>
+        <employee_type>hourly</employee_type>
+        <monthly_salary>3000</monthly_salary>
+    </employee>
+    <employee>
+        <full_name>Michael Johnson</full_name>
+        <date_of_birth>1992-03-07</date_of_birth>
+	<department>
+            <title>Engineering</title>
+        </department>
+        <position>Analyst</position>
+        <employee_type>hourly</employee_type>
+        <monthly_salary>4000</monthly_salary>
+    </employee>
+</employees>
+
